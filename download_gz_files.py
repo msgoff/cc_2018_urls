@@ -27,5 +27,5 @@ def download_gz(url):
     urllib.urlretrieve(url, fullfilename)
 
 for url in urls: 
-    download_gz(urls)
+    download_gz(url)
 
