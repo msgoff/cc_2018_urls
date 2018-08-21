@@ -6,4 +6,4 @@
 
 
 # Common Crawl
-https://commoncrawl.org/terms-of-use/full/)
+https://commoncrawl.org/terms-of-use/full/
